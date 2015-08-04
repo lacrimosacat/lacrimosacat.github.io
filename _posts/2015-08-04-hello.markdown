@@ -1,0 +1,9 @@
+---
+layout:		post
+title: 		"Jekyll+Github: 新的開始"
+date:		2015-08-04 01:19:00
+author:		"lacrimosact"
+---
+
+<p>這是我第二次嘗試用Jekyll以及Github來寫blog，第一次寫的時候對html和css沒有足夠的了解，不知道自己在做什麼
+，這次的嘗試有比較進入狀況。之後這裡放的東西會以學習的筆記為主。</p>

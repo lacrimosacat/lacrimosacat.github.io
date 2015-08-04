@@ -23,6 +23,13 @@ h6 {
   color: white;
 }
 a {
+  /*color: #404040;*/
+  color: white;
+}
+.next a{
+  color: #404040;
+}
+.previous a{
   color: #404040;
 }
 a:hover,
@@ -33,6 +40,7 @@ a img:hover,
 a img:focus {
   cursor: zoom-in;
 }
+
 blockquote {
   color: #808080;
   font-style: italic;
